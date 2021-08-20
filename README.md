@@ -1,5 +1,1 @@
-- 👋 Hi, I’m Giovanna
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Python, .NET, C#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me giovanna.12vsantos@gmail.com
+
