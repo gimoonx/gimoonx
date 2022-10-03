@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Giovanna</h1>
 <h3 align="center">A future fullstack developer from Brazil.</h3>
 
-- 🔭 I’m currently working on **C#**
+- 🔭 I’m currently working on **CSS and Angular on my job**
 
 - 🌱 I’m currently learning **.NET, C# e Python**
 
